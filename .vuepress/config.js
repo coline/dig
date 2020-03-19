@@ -1,11 +1,10 @@
 sidebar = [
    {
-     title: 'Programme DIG',
+     title: 'Le Programme',
      collapsable: true,
      children: [
        'accompagnement',
-       'restitutions',
-       'facteurs-reussite'
+       'planning du programme'
      ]
    },
   {
@@ -13,19 +12,21 @@ sidebar = [
      collapsable: true,
      children: [
       'ecosysteme',
-      'encadrement',
-      'outils',
-      'reseau'
+      'ingenerie-programme',
+      'outils-refs',
+      'reseau-eig'
      ]
    },
      {
      title: 'Bonnes pratiques',
      collapsable: true,
      children: [
-      'communication-interne',
-      'communication-externe',
-      'supports-communication',
-      'design'
+      'preparer-defi',
+      'indicateurs-impact',
+      'concevoir',
+      'ouvrir-publier',
+      'communiquer',
+      'documenter-defis'
      ]
    },
 ]
